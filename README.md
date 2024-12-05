@@ -87,16 +87,18 @@ Here’s a visual representation of the workflow:
 ## **📸 Example Outputs**  
 
 ### **Input Query Image:**  
-*(Insert an image of a fashion product used as input.)*  
+![image](https://github.com/user-attachments/assets/c573c0e9-22fc-4d87-af47-1afc3c161d8a)
+  
 
 ---
 
 ### **Top Similar Images:**  
-*(Include a grid showcasing the query image alongside the top K similar images and their similarity scores.)*  
+![image](https://github.com/user-attachments/assets/898935da-ff65-47dd-a2bb-2d7e689a5d86)
 
 ---
 
 ### **Product Information Example:**  
+![Screenshot 2024-12-02 091626](https://github.com/user-attachments/assets/d418881d-6831-4937-84e1-6549b68d7e5f)
 
 
 ---
