@@ -119,8 +119,7 @@ Here’s a visual representation of the workflow:
 ### **Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Fashion-Product-Recommendation.git
-   cd Fashion-Product-Recommendation
+   git clone https://github.com/shailisahu283/See-Search-Shop-Visual-Fashion-Recommendation.git
    ```  
 2. Install required packages:  
    ```bash
