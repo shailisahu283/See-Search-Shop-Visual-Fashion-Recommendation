@@ -131,10 +131,6 @@ Here’s a visual representation of the workflow:
    ```python
    path = kagglehub.dataset_download("paramaggarwal/fashion-product-images-small")
    ```  
-4. Prepare the dataset with the first 1K images:  
-   ```python
-   # Code for dataset preparation included in the main script.
-   ```  
 
 ---
 
