@@ -84,6 +84,12 @@ Here’s a visual representation of the workflow:
 
 ---
 
+## **🔗 Project Links**  
+- **🖼️ fashion recommendation system:** [Colab Notebook](https://colab.research.google.com/drive/1cjFv3ndA0Cgn2GYD90CF_GwnMzwn1S_b?usp=sharing)
+
+---
+
+
 ## **📸 Example Outputs**  
 
 ### **Input Query Image:**  
