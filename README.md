@@ -9,15 +9,17 @@ A deep learning-based fashion recommendation system combining **Convolutional Ne
 2. [🖥️ Tech Stack](#Tech-Stack)
 3. [📂 Dataset](#Dataset)
 4. [🌟 System Architecture](#system-architecture)  
-5. [🚀 Project Workflow](#Project-Workflow)  
-6. [📸 Example Outputs](#example-outputs)  
-7. [⚙️ Setup Instructions](#setup-instructions)  
-8. [▶️ Usage](#usage)  
-9. [🔗 Project Highlights](#project-highlights)  
-10. [🤝 Contributing](#contributing)
-11. [🏆 Acknowledgements](#Acknowledgements)
-12. [📜 License](#license)  
-13. [👤 Author](#author)  
+5. [🚀 Project Workflow](#Project-Workflow)
+6. [📸 Visualization](#Visualization)
+7. [🔗 Project Links](#Project-Links)
+8. [📸 Example Outputs](#example-outputs)  
+9. [⚙️ Setup Instructions](#setup-instructions)  
+10. [▶️ Usage](#usage)  
+11. [🔗 Project Highlights](#project-highlights)  
+12. [🤝 Contributing](#contributing)
+13. [🏆 Acknowledgements](#Acknowledgements)
+14. [📜 License](#license)  
+15. [👤 Author](#author)  
 
 ---
 
@@ -30,7 +32,7 @@ A deep learning-based fashion recommendation system combining **Convolutional Ne
 
 ---
 
-## 🖥️ **Tech Stack**  
+##  **🖥️ Tech Stack**  
 
 - **Programming Languages:** Python (PyTorch, TensorFlow)  
 - **Libraries:** torchvision, transformers, albumentations, matplotlib  
@@ -39,13 +41,13 @@ A deep learning-based fashion recommendation system combining **Convolutional Ne
 
 ---
 
-## 📂 **Dataset**  
+##  **📂 Dataset**  
 
 The project utilizes the [Fashion Product Images Small Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small) from Kaggle. It contains images of fashion products, which were preprocessed and resized to suit the model's requirements.  
 
 ---
 
-## **📂 System Architecture**  
+## **🌟 System Architecture**  
 1. **Input:**  
    - Query image provided by the user (e.g., a fashion product).  
 2. **Processing:**  
@@ -58,7 +60,7 @@ The project utilizes the [Fashion Product Images Small Dataset](https://www.kagg
 
 ---
 
-## 🚀 **Project Workflow**  
+##  **🚀 Project Workflow**  
 
 1. **Dataset Preparation:**  
    - Downloaded 20K images from Kaggle and limited the dataset to the first 1,000 images for experimentation.  
@@ -77,7 +79,7 @@ The project utilizes the [Fashion Product Images Small Dataset](https://www.kagg
 
 ---
 
-## 📸 **Visualization**  
+##  **📸 Visualization**  
 
 Here’s a visual representation of the workflow:  
 ![image](https://github.com/user-attachments/assets/a8d4bff2-539b-41a5-bdd1-6586b0c50fd7)
@@ -161,7 +163,7 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 🏆 **Acknowledgements**  
+##  **🏆 Acknowledgements**  
 
 - Dataset: [Kaggle](https://www.kaggle.com/)  
 - Libraries: PyTorch, torchvision, transformers  
