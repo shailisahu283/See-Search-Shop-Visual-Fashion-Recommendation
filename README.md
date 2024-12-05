@@ -80,7 +80,7 @@ The project utilizes the [Fashion Product Images Small Dataset](https://www.kagg
 ## 📸 **Visualization**  
 
 Here’s a visual representation of the workflow:  
-![Workflow](https://via.placeholder.com/1200x300)  
+![image](https://github.com/user-attachments/assets/a8d4bff2-539b-41a5-bdd1-6586b0c50fd7)
 
 ---
 
